@@ -31,15 +31,15 @@ header nav a {
 	padding-right: 2%;
 }
 #content #mainContent h1, #content #mainContent h2 {
-	/* Styling for main headings */
-	color: rgba(146,146,146,1.00);
+    /* Styling for main headings */
+    color: rgba(255,255,255,1.00);
 }
 #content #mainContent h3 {
-	/*Captions ot Taglines */
-	font-family: source-sans-pro, sans-serif;
-	font-style: normal;
-	font-weight: 200;
-	color: rgba(146,146,146,1.00);
+    /*Captions ot Taglines */
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: rgba(244,244,244,1.00);
 }
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
@@ -47,12 +47,12 @@ header nav a {
 	background-color: rgba(208,207,207,1.00);
 }
 #content #mainContent p {
-	/* All paragraphs under maincontent */
-	color: rgba(146,146,146,1.00);
-	font-family: source-sans-pro, sans-serif;
-	font-style: normal;
-	font-weight: 200;
-	text-align: justify;
+    /* All paragraphs under maincontent */
+    color: rgba(255,255,255,1.00);
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    text-align: justify;
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
@@ -98,14 +98,14 @@ footer article h3 {
 	padding-top: 41px;
 }
 #mainwrapper #content #sidebar {
-	/* Sidebar*/
-	width: 16%;
-	padding-left: 2%;
-	padding-right: 2%;
-	float: left;
-	background-color: rgba(246,246,246,1.00);
-	margin-top: 20px;
-	padding-top: 32px;
+    /* Sidebar*/
+    width: 16%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+    background-color: rgba(33,31,31,1.00);
+    margin-top: 20px;
+    padding-top: 32px;
 }
 #mainwrapper {
 	/* Container of all content */
@@ -119,12 +119,11 @@ footer article h3 {
 	height: 32px;
 }
 #content #sidebar #adimage {
-	/* Container for Image in sidebar */
-	width: 100%;
-	background-color: rgba(208,207,207,1.00);
-	margin-top: 46px;
-	float: none;
-	overflow: auto;
+    /* Container for Image in sidebar */
+    width: 100%;
+    margin-top: 46px;
+    float: none;
+    overflow: auto;
 }
 nav ul li {
 	list-style-type: none;
@@ -135,8 +134,10 @@ nav ul {
 	padding-left: 0%;
 }
 nav ul li a {
-	color: rgba(146,146,146,1.00);
-	text-decoration: none;
+    color: rgba(173,163,3,1.00);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bolder;
 }
 #footerbar {
 	/* Footer bar at the bottom of the page */
